@@ -6,7 +6,7 @@ Simple Calculator App using android java.
 
 
 
-Try in live demo: [**Simple Calculator**]([Embed (appetize.io)](https://appetize.io/embed/e4ciadtqwftmbhnq2s5hcqbd6q))
+Try in live demo: [**Simple Calculator**](https://appetize.io/embed/e4ciadtqwftmbhnq2s5hcqbd6q)
 
 ###### You may notice a lag while using application, but that is because of the emulator.
 
